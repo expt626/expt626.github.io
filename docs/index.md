@@ -45,7 +45,4 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-# image links
-this is in index folder 
-
-![[test-img.png]]
+[TAGS]
