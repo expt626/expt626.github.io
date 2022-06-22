@@ -8,4 +8,4 @@ This project is just an example of how to use [Obsidian.Md](https://obsidian.md/
 
 ![GHPagesLimit.png](GHPagesLimit.png)
 
-You can view the generated site at [https://expt626.github.io/zombie-brain/](https://expt626.github.io/zombie-brain/)
+You can view the generated site at [https://expt626.github.io/](https://expt626.github.io/)
